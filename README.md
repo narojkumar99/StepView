@@ -1,7 +1,7 @@
 StepView
 ======================
 
-A simple animated step view for Android. Backward and forward animations is supported.
+A simple animated step view for Android. Backward and forward animations is supporteds.
 
 Usage
 -----
